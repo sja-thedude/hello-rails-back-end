@@ -20,7 +20,7 @@ To get a local copy for this project and running follow these simple example ste
 
 ## Link
 
-[react-front-end](https://github.com/sja-thedude/hello-react-front-end/)
+[react-front-end](https://github.com/sja-thedude/hello-react-front-end/tree/setup)
 
 ## Setup
 
