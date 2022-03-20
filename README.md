@@ -22,6 +22,8 @@ To get a local copy for this project and running follow these simple example ste
 
 [react-front-end](https://github.com/sja-thedude/hello-react-front-end/tree/setup)
 
+[heroku](https://sja-thedude-api.herokuapp.com/api/messages)
+
 ## Setup
 
 ### Creating the hello-rails-back-end
